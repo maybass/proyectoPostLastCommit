@@ -1,0 +1,39 @@
+
+[
+{
+	"id":"1",
+	"nombre": "joystick",
+	"ruta_imagen": "https://http2.mlstatic.com/D_NQ_NP_637684-MLA32150735810_092019-O.webp",
+	"precio": 2000,
+	"cantidad": 50,
+	"descripcion" : "ok",
+	"caracteristicas" : "ok",
+	"hayStock": true
+
+},{
+	"id":"2",
+	"nombre": "monitor gamer",
+	"ruta_imagen": "https://http2.mlstatic.com/D_NQ_NP_796587-MLA46165231779_052021-O.webp",
+	"precio": 5000,
+	"cantidad": 0,
+	"descripcion" : "ok",
+	"caracteristicas" : "ok",
+	"hayStock": false
+	
+},{
+	"id":"3",
+	"nombre": "computadora gamer",
+	"ruta_imagen" : "https://http2.mlstatic.com/D_NQ_NP_823716-MLA50172124937_062022-O.webp",
+	"precio": 12000,
+	"cantidad": 50,
+	"descripcion" : "ok",
+	"caracteristicas" : "ok",
+	"hayStock": true
+}
+
+
+
+
+
+]
+
