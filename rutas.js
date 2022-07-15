@@ -71,7 +71,7 @@ router.get('/admin', adminGET)
 
 router.get('/agregar-producto', agregarProductoGET)
 
-router.post('agregar-producto' , agregarProductoPOST)
+router.post('/agregar-producto' , agregarProductoPOST)
 
 router.get('/editar-producto', editarProductoGET)
 
